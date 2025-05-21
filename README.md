@@ -10,7 +10,7 @@ Passionate CS student skilled in HTML, CSS, JS, SQL. Currently studying backend 
 *   🖥️  See my portfolio at [My portfolio](http://sites.google.com/view/hanaaden)
 *   ✉️  You can contact me at [hanaadenabdi@gmail.com](mailto:hanaadenabdi@gmail.com)
 *   🚀  I'm currently working on [Full stack Projects](http://https://hanaaden.github.io/Hangman-game/)
-*   🧠  I'm learning backend languages
+*   🧠  MERN Apps Developer 
 *   🤝  I'm open to collaborating on developing frontend websites### Skills
   
 <p align="left">
