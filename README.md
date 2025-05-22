@@ -47,14 +47,8 @@ Welcome to my GitHub! I'm a passionate and dedicated junior developer currently 
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Metrics -->
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=hanaaden&theme=calm&base=header,activity,community,repositories,metadata" alt="GitHub Metrics" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanaaden&theme=calm" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaaden&layout=compact&theme=calm" alt="Top Languages" />
 </p>
 
 ---
@@ -81,4 +75,4 @@ Whether you're building a new web app, need a frontend collaborator, or want to 
 > _“The future belongs to those who believe in the beauty of their dreams.” — Eleanor Roosevelt_
 
 Thanks for stopping by! ⭐  
-**Hana Aden Abdi**
+Hana Aden Abdi
