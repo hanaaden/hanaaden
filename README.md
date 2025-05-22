@@ -1,41 +1,49 @@
-# 👋 Hi there, I'm Hana Aden Abdi!
+# 👋 Hello there! I'm Hana Aden Abdi
 
-🚀 **Aspiring Full-Stack Web Developer** | 🎓 CS Student | 💻 Passionate about clean, accessible code
+### 💻 Full-Stack Developer in the Making | 🎓 CS Student | 🌍 Based in Somalia
 
-I'm a highly motivated junior frontend developer currently expanding into full-stack development with a focus on the **MERN stack**. I love building responsive, user-friendly web applications, and I’m always excited to learn new technologies and collaborate on meaningful projects.
-
----
-
-### 🌍 About Me
-
-- 📍 Based in **Somalia**
-- 📫 Reach me at **[hanaadenabdi@gmail.com](mailto:hanaadenabdi@gmail.com)**
-- 🌐 Explore my work: [Portfolio Website](http://sites.google.com/view/hanaaden)
-- 💼 Currently working on: [Full-Stack Projects](https://hanaaden.github.io/Hangman-game/)
-- 🤝 Open to collaboration on **frontend** or **full-stack** projects
+I'm a passionate junior developer with a strong foundation in **HTML, CSS, JavaScript, and SQL**, currently diving deeper into backend development with the **MERN stack** and modern tools like **Tailwind CSS**. I love building intuitive and responsive applications and aim to become a well-rounded full-stack developer.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 About Me
+
+- 🌱 Currently learning: **MongoDB, Express.js, React, Node.js**
+- 🛠️ Tech stack focus: **MERN + Tailwind CSS**
+- 🎯 Goals for 2025:
+  - Build and deploy 3+ full-stack MERN apps
+  - Contribute to open-source
+  - Write dev blogs
+- 🌐 Portfolio: [hanaaden.dev](http://sites.google.com/view/hanaaden)
+- 📫 Contact: [hanaadenabdi@gmail.com](mailto:hanaadenabdi@gmail.com)
+- 🧠 Actively working on: [Hangman Game](https://hanaaden.github.io/Hangman-game/)
+- 🤝 Open to collaboration on **frontend** and **full-stack** projects
+
+---
+
+### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanaaden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanaaden&theme=react" alt="hanaaden streak stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaaden&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
 ---
@@ -43,19 +51,16 @@ I'm a highly motivated junior frontend developer currently expanding into full-s
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hanaaden" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61565161700526" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" /></a>
+  <a href="https://linkedin.com/in/hanaaden" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/profile.php?id=61565161700526" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
 
-### 🎯 Goals for 2025
+> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
-- ✅ Master advanced React and Node.js patterns
-- ✅ Build and deploy at least 3 full-stack MERN projects
-- ✅ Contribute to open-source projects
-- ✅ Start writing tech blogs to share my learning journey
-
----
-
-_Thanks for visiting my profile! Let's connect and build something great together._ 😊
+Thanks for visiting my profile! Let’s build something amazing together. 🌟
