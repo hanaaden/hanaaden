@@ -47,12 +47,14 @@ Welcome to my GitHub! I'm a passionate and dedicated junior developer currently 
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Metrics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanaaden&show_icons=true&theme=calm&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-metrics.vercel.app/api?username=hanaaden&theme=calm&base=header,activity,community,repositories,metadata" alt="GitHub Metrics" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaaden&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hanaaden&theme=calm" alt="GitHub Activity Graph" />
 </p>
 
 ---
