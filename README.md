@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Full-Stack Developer | 🎓 Computer Science Student | 🌍 Based in Somalia
 
-Welcome to my GitHub! I'm a passionate and dedicated junior developer currently building my skills in full-stack development. My background in front-end technologies combined with a strong drive to master the backend enables me to deliver clean, responsive, and modern web applications.
+Welcome to my GitHub! I'm a passionate and dedicated  developer currently building my skills in full-stack development. My background in front-end technologies combined with a strong drive to master the backend enables me to deliver clean, responsive, and modern web applications.
 
 ---
 
