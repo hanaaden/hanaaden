@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate and dedicated  developer currently buildi
 - ⚡ Proficient in: **HTML5, CSS3, JavaScript, SQL**  
 - 🎯 2025 Goals:
   - Contribute to real-world open-source projects
-  - Build and deploy multiple full-stack apps
+  - Build and deploy multiple full-stack apps using MERN
   - Deepen understanding of RESTful APIs and modern frontend frameworks
 - 🌐 Portfolio: [hanaaden.dev](http://sites.google.com/view/hanaaden)
 - 📫 Email: [hanaadenabdi@gmail.com](mailto:hanaadenabdi@gmail.com)
