@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate and dedicated  developer currently buildi
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stacks
 
 **Languages & Markup**  
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
