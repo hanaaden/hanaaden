@@ -31,6 +31,7 @@ Tech Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 **Frontend**  
@@ -53,9 +54,6 @@ Tech Stacks
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=hanaaden&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=hanaaden&layout=compact&theme=radical" alt="Top Languages" />
