@@ -52,10 +52,10 @@ Tech Stacks
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaaden&layout=compact&theme=calm" alt="Top Languages" />
 </p>
+
 
 ---
 
