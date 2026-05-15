@@ -14,9 +14,8 @@ Welcome to my GitHub! I'm a passionate and dedicated  developer currently buildi
   - Contribute to real-world open-source projects
   - Build and deploy multiple full-stack apps using PERN
   - Deepen understanding of RESTful APIs and modern frontend frameworks
-- 🌐 Portfolio: [hanaaden.dev](http://sites.google.com/view/hanaaden)
+- 🌐 Portfolio: [hanaaden.site](https://www.hanaaden.site)
 - 📫 Email: [hanaadenabdi@gmail.com](mailto:hanaadenabdi@gmail.com)
-- 🛠️ Working on: [Movie Search App](https://github.com/hanaaden/Movie-Search-app)
 - 🤝 Open to: **Remote internships, mentorships, or collaborations**
 
 ---
